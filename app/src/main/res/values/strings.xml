@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Qmvp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_setting">Setting</string>
+    <string name="city">城市:</string>
+    <string name="wd">\n风向:</string>
+    <string name="ws">\n风级:</string>
+    <string name="time">\n发布时间:</string>
+    <string name="string_re">普通写法(Retrofit)</string>
+    <string name="string_re_rx">普通写法(Retrofit+Rxjava)</string>
+    <string name="string_mvp_re_rx">MVP+Retrofit+Rxjava</string>
+</resources>
